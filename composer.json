@@ -29,7 +29,7 @@
         }
     ],
     "autoload": {
-        "psr-4": { "dfware\\html2pdf\\": "src" }
+        "psr-4": { "yii2tech\\html2pdf\\": "src" }
     },
     "extra": {
         "branch-alias": {
