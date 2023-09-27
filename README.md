@@ -1,20 +1,3 @@
-<p align="center">
-    <a href="https://github.com/yii2tech" target="_blank">
-        <img src="https://avatars2.githubusercontent.com/u/12951949" height="100px">
-    </a>
-    <h1 align="center">HTML to PDF conversion extension for Yii2</h1>
-    <br>
-</p>
-
-This extension provides basic support for HTML to PDF and PHP to PDF conversion.
-
-For license information check the [LICENSE](LICENSE.md)-file.
-
-[![Latest Stable Version](https://img.shields.io/packagist/v/yii2tech/html2pdf.svg)](https://packagist.org/packages/yii2tech/html2pdf)
-[![Total Downloads](https://img.shields.io/packagist/dt/yii2tech/html2pdf.svg)](https://packagist.org/packages/yii2tech/html2pdf)
-[![Build Status](https://travis-ci.org/yii2tech/html2pdf.svg?branch=master)](https://travis-ci.org/yii2tech/html2pdf)
-
-
 Installation
 ------------
 
@@ -23,13 +6,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist yii2tech/html2pdf
+composer require dfware/html2pdf
 ```
 
 or add
 
 ```json
-"yii2tech/html2pdf": "*"
+"dfware/html2pdf": "*"
 ```
 
 to the require section of your composer.json.

@@ -1,19 +1,19 @@
 {
-    "name": "yii2tech/html2pdf",
+    "name": "dfware/html2pdf",
     "description": "Provides support for HTML to PDF and PHP to PDF conversion",
     "keywords": ["yii2", "html2pdf", "php2pdf", "pdf", "convert", "conversion", "template"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/yii2tech/html2pdf/issues",
+        "issues": "https://github.com/dfware/html2pdf/issues",
         "forum": "http://www.yiiframework.com/forum/",
-        "wiki": "https://github.com/yii2tech/html2pdf/wiki",
-        "source": "https://github.com/yii2tech/html2pdf"
+        "wiki": "https://github.com/dfware/html2pdf/wiki",
+        "source": "https://github.com/dfware/html2pdf"
     },
     "authors": [
         {
-            "name": "Paul Klimov",
-            "email": "klimov.paul@gmail.com"
+            "name": "Pavel Karelin",
+            "email": "devpastet@yandex.ru"
         }
     ],
     "require": {
@@ -29,7 +29,7 @@
         }
     ],
     "autoload": {
-        "psr-4": { "yii2tech\\html2pdf\\": "src" }
+        "psr-4": { "dfware\\html2pdf\\": "src" }
     },
     "extra": {
         "branch-alias": {
